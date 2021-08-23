@@ -1,0 +1,65 @@
+[
+    {
+        "store_number": "1",
+        "order_number": "80",
+        "order_datetime": "08/08/2021",
+        "flavours": "Brown Sugarw3",
+        "toppings": "Oreo, Jelly",
+        "amount_ice": "Half",
+        "total_orders_price": "100"
+    },
+    {
+        "store_number": "1",
+        "order_number": "2",
+        "order_datetime": "08/08/2021",
+        "flavours": "Brown Sugar",
+        "toppings": "Tapioca Pearls",
+        "amount_ice": "Full Ice",
+        "total_orders_price": "100"
+    },
+    {
+        "store_number": "1",
+        "order_number": "3",
+        "order_datetime": "08/08/2021",
+        "flavours": "Brown Sugar",
+        "toppings": "Tapioca Pearls",
+        "amount_ice": "Full Ice",
+        "total_orders_price": "100"
+    },
+    {
+        "store_number": "2",
+        "order_number": "5",
+        "order_datetime": "08/08/2021",
+        "flavours": "Brown Sugar",
+        "toppings": "Tapioca Pearls",
+        "amount_ice": "Full Ice",
+        "total_orders_price": "100"
+    },
+    {
+        "store_number": "2",
+        "order_number": "5",
+        "order_datetime": "08/09/2021",
+        "flavours": "Brown Sugar",
+        "toppings": "Tapioca Pearls",
+        "amount_ice": "Full Ice",
+        "total_orders_price": "100"
+    },
+    {
+        "store_number": "1",
+        "order_number": "80",
+        "order_datetime": "08/08/2021",
+        "flavours": "Brown Sugar",
+        "toppings": "Tapioca Pearls",
+        "amount_ice": "Full Ice",
+        "total_orders_price": "100"
+    },
+    {
+        "store_number": "2",
+        "order_number": "5",
+        "order_datetime": "09/09/2021",
+        "flavours": "Brown Sugar",
+        "toppings": "Tapioca Pearls",
+        "amount_ice": "Full Ice",
+        "total_orders_price": "100"
+    }
+]
