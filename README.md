@@ -1,6 +1,6 @@
 # icecream-store-app
 
-## This is just a IT test for some company
+## This is just a IT test
 
 Part 1 - Create a REST endpoint that saves orders coming from POS.
 The POS will be sending the following information: store number, order number, order date time, flavours, toppings, amount of ice and the total order price.
